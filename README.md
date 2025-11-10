@@ -25,7 +25,7 @@ JavaScript – Game logic
 
 Open the game in your browser.
 
-Player X starts first.
+Player o starts first.
 
 Take turns placing X and O.
 
@@ -39,3 +39,4 @@ Click Restart to start a new game.
 
 ## Author
 **creativecoder**
+
